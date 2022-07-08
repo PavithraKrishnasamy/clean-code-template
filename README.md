@@ -5,3 +5,7 @@ Extract Switch case
     - Rename rental object each
     - inline thisAmount
     - Move instance method
+
+Extract frequentRenterPoints
+    - Extract frequent renter point
+    - Rename the method
